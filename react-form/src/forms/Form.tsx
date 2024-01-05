@@ -18,7 +18,8 @@ function Form() {
           color="black"
           align="center"
           fontSize={"24px"}
-          fontWeight={600}
+          fontFamily={"Poppins"}
+          fontWeight={700}
           lineHeight={"32px"}
         >
           Welcome to Crown Palace
@@ -28,6 +29,7 @@ function Form() {
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores
           dolorum distinctio assumenda!
         </Typography>
+
       </Box>
       <InputField />
     </Stack>
